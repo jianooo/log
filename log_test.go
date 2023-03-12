@@ -4,5 +4,5 @@ import "testing"
 
 func TestName(t *testing.T) {
 	NewDevelopment()
-	Info("test123")
+	Info("test")
 }
